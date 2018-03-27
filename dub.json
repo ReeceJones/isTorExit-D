@@ -1,0 +1,12 @@
+{
+	"name": "istorexit",
+	"authors": 
+	[
+		"Reece Jones"
+	],
+	"targetType": "executable",
+	"description": "A port of the tor exit checker by github.com/assafmo",
+	"copyright": "Copyright © 2018, Reece Jones",
+	"license": "MIT",
+	"targetPath": "bin/"
+}
